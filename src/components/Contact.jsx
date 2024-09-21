@@ -11,7 +11,7 @@ const Contact = () => {
       <section className="bg-gray-900 text-white py-12 px-4">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center text-center md:text-left space-y-4 md:space-y-0 md:space-x-6">
           <h2 className="text-3xl font-bold mb-4 md:mb-0">Start a project</h2>
-          <p className="text-lg mb-4 md:mb-0 flex-1">
+          <p className="text-lg mb-4 md:mb-0 flex-1 md:text-center">
             Interested in working together? We should queue up a time to chat.
             I'll buy the coffee.
           </p>
