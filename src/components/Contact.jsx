@@ -2,7 +2,7 @@ import React from "react";
 import linkedin from "../assets/linkedin.png";
 import github from "../assets/github.png";
 import gmail from "../assets/email.png";
-import behance from "../assets/behance.png";
+import behance from "../assets/behnaceB.png";
 
 const Contact = () => {
   return (

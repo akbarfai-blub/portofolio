@@ -8,9 +8,9 @@ const RecentWork = () => {
     { id: 1, imgSrc: P1, alt: "Project 1" },
     { id: 2, imgSrc: P2, alt: "Project 2" },
     { id: 3, imgSrc: P3, alt: "Project 3" },
-    { id: 4, imgSrc: "/path-to-image/project4.jpg", alt: "Project 4" },
-    { id: 5, imgSrc: "/path-to-image/project5.jpg", alt: "Project 5" },
-    { id: 6, imgSrc: "/path-to-image/project6.jpg", alt: "Project 6" },
+    { id: 4, imgSrc: "https://via.placeholder.com/300x200", alt: "Project 4" },
+    { id: 5, imgSrc: "https://via.placeholder.com/300x200", alt: "Project 5" },
+    { id: 6, imgSrc: "https://via.placeholder.com/300x200", alt: "Project 6" },
   ];
 
   return (
