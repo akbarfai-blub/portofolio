@@ -75,14 +75,18 @@ const About = () => {
               />
             </div>
           </div>
-          <h3 className="text-xl font-semibold mb-4 text-center">3D Desing</h3>
+          <h3 className="text-xl font-semibold mb-4 text-center">
+            3D Designer
+          </h3>
           <p className="text-gray-700 mb-4 text-center">
-            I make a 3d desing like interior and product 3d
+            I create 3D designs for interior spaces and product visualization.
           </p>
-          <h4 className="text-purple-600 mb-2">Experience:</h4>
+          <h4 className="text-purple-600 mb-2">Areas of Expertise:</h4>
           <p className="text-gray-700 mb-4">Interior Design, Product Design</p>
           <h4 className="text-purple-600 mb-2">3D Designs Stats:</h4>
-          <p className="text-gray-700">2 years experience</p>
+          <p className="text-gray-700">
+            Over 2 years of professional experience in 3D modeling and design
+          </p>
         </div>
       </div>
     </section>
