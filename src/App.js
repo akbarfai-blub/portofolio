@@ -1,16 +1,16 @@
 import "./App.css";
 import Header from "./components/Header";
-import About from "./components/About";
-import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import RecentWork from "./components/RecentWork";
+import Hero from "./components/Hero";
+import About from "./components/About";
 
 function App() {
   return (
     <div className="App">
       <Header />
+      <Hero />
       <About />
-      <Projects />
       <RecentWork />
       <Contact />
     </div>

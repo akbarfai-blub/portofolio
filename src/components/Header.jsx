@@ -12,7 +12,9 @@ const Header = () => {
       <div className="flex items-center space-x-8">
         {/* Say Hello Button */}
         <a
-          href="#contact"
+          href="https://wa.me/6285236899504?text=Hello%2C%20I%27m%20interested%20in%20your%20services%21"
+          target="_blank" // Opens the WhatsApp link in a new tab
+          rel="noopener noreferrer" // Prevents security risks when opening new tabs
           className="inline-block border-2 border-purple-600 text-purple-600 hover:bg-purple-600 hover:text-white font-semibold py-2 px-4 rounded-full transition duration-300"
         >
           Say Hello

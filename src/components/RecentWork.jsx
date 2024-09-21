@@ -1,10 +1,13 @@
 import React from "react";
+import P1 from "../assets/Project1.png";
+import P2 from "../assets/Project2.png";
+import P3 from "../assets/Project3.png";
 
 const RecentWork = () => {
   const projects = [
-    { id: 1, imgSrc: "/path-to-image/project1.jpg", alt: "Project 1" },
-    { id: 2, imgSrc: "/path-to-image/project2.jpg", alt: "Project 2" },
-    { id: 3, imgSrc: "/path-to-image/project3.jpg", alt: "Project 3" },
+    { id: 1, imgSrc: P1, alt: "Project 1" },
+    { id: 2, imgSrc: P2, alt: "Project 2" },
+    { id: 3, imgSrc: P3, alt: "Project 3" },
     { id: 4, imgSrc: "/path-to-image/project4.jpg", alt: "Project 4" },
     { id: 5, imgSrc: "/path-to-image/project5.jpg", alt: "Project 5" },
     { id: 6, imgSrc: "/path-to-image/project6.jpg", alt: "Project 6" },
@@ -18,7 +21,7 @@ const RecentWork = () => {
         <p className="text-lg text-gray-600 mt-4">
           Here are a few past design projects I've worked on. Want to see more?{" "}
           <a
-            href="mailto:youremail@example.com"
+            href="mailto:akbarfai2428@gmail.com"
             className="text-blue-500 hover:underline"
           >
             Email me.
@@ -45,7 +48,7 @@ const RecentWork = () => {
       {/* Call to Action Button */}
       <div className="text-center mt-12">
         <a
-          href="https://dribbble.com"
+          href="https://www.behance.net/akbfai"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-transparent border-2 border-purple-600 text-purple-600 font-semibold py-3 px-8 rounded-full hover:bg-purple-600 hover:text-white transition-colors duration-300"
