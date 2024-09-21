@@ -10,7 +10,7 @@ const RecentWork = () => {
       imgSrc: P1,
       alt: "Project 1",
       title: "Tour Package Website",
-      description: "A website showcasing popular tour packages.",
+      description: "A website showcasing popular tour packages for Haji.",
     },
     {
       id: 2,
