@@ -1,6 +1,7 @@
 import React from "react";
 import uiux from "../assets/uiux.png";
 import frontend from "../assets/frontend.png";
+import blender from "../assets/Blender.png";
 
 const About = () => {
   return (
@@ -13,7 +14,7 @@ const About = () => {
         <p className="text-lg max-w-2xl mx-auto">
           A creative and technically skilled Frontend Developer and UI/UX
           Designer with a background in Software Engineering from Telkom
-          Surabaya Institute of Technology. I have 3 years of experience using
+          Surabaya Institute of Technology. I have 2 years of experience using
           Figma for user-centered designs and ReactJS for building responsive,
           high-quality web applications. I also possess GitHub proficiency for
           version control and experience with backend integration (MySQL,
@@ -73,11 +74,7 @@ const About = () => {
         <div className="bg-white text-gray-900 rounded-lg shadow-lg p-6">
           <div className="flex justify-center mb-4">
             <div className="bg-teal-500 p-4 rounded-full">
-              <img
-                src="/path-to-icon/mentor-icon.svg"
-                alt="Mentor"
-                className="w-10 h-10"
-              />
+              <img src={blender} alt="Mentor" className="w-10 h-10" />
             </div>
           </div>
           <h3 className="text-xl font-semibold mb-4 text-center">
