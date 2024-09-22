@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portofolio/static/css/main.c992e256.css",
-    "main.js": "/portofolio/static/js/main.e96de499.js",
+    "main.css": "/portofolio/static/css/main.51902809.css",
+    "main.js": "/portofolio/static/js/main.1520f4d7.js",
     "static/media/CUDA.png": "/portofolio/static/media/CUDA.93e14a2d97b10259166c.png",
     "static/media/CanOutdoor.png": "/portofolio/static/media/CanOutdoor.94de88b5484db4a03900.png",
     "static/media/Es7.png": "/portofolio/static/media/Es7.bae60bb36f4e180e737b.png",
@@ -16,11 +16,11 @@
     "static/media/linkedin.png": "/portofolio/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "static/media/email.png": "/portofolio/static/media/email.e2d89cdc1960341d4df5.png",
     "index.html": "/portofolio/index.html",
-    "main.c992e256.css.map": "/portofolio/static/css/main.c992e256.css.map",
-    "main.e96de499.js.map": "/portofolio/static/js/main.e96de499.js.map"
+    "main.51902809.css.map": "/portofolio/static/css/main.51902809.css.map",
+    "main.1520f4d7.js.map": "/portofolio/static/js/main.1520f4d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.c992e256.css",
-    "static/js/main.e96de499.js"
+    "static/css/main.51902809.css",
+    "static/js/main.1520f4d7.js"
   ]
 }
