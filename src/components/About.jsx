@@ -73,7 +73,7 @@ const About = () => {
         {/* Card 3: Mentor */}
         <div className="bg-white text-gray-900 rounded-lg shadow-lg p-6">
           <div className="flex justify-center mb-4">
-            <div className="bg-teal-500 p-4 rounded-full">
+            <div className="p-4 rounded-full">
               <img src={blender} alt="Mentor" className="w-10 h-10" />
             </div>
           </div>
