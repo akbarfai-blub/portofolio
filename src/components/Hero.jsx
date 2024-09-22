@@ -13,7 +13,7 @@ const Hero = () => {
 
         {/* Deskripsi singkat */}
         <p className="text-md sm:text-lg md:text-xl text-gray-600 mb-6 leading-relaxed max-w-2xl mx-auto">
-          Specializing in UI/UX Design and Frontend Development with over 1
+          Specializing in UI/UX Design and Frontend Development with over 2
           years of experience in building responsive and user-centric web
           applications.
         </p>
@@ -30,13 +30,17 @@ const Hero = () => {
         {/* Tombol CTA */}
         <div className="flex justify-center space-x-4">
           <a
-            href="#portfolio"
+            href="https://www.behance.net/akbfai"
+            target="_blank"
+            rel="noopener noreferrer"
             className="bg-purple-600 text-white py-2 px-6 rounded-full hover:bg-purple-700 transition duration-300 shadow-lg transform hover:scale-105"
           >
             See My Portfolio
           </a>
           <a
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/149QjDoOWim1zdm8y8AOAIPidVhJ6VpsX/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
             className="bg-transparent border-2 border-purple-600 text-purple-600 py-2 px-6 rounded-full hover:bg-purple-600 hover:text-white transition duration-300 shadow-lg transform hover:scale-105"
           >
             Download Resume

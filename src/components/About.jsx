@@ -11,10 +11,15 @@ const About = () => {
           Hi, I'm Akbar. Nice to meet you.
         </h2>
         <p className="text-lg max-w-2xl mx-auto">
-          Since beginning my journey as a frontend developer, I've built
-          responsive, scalable applications, and designed user-friendly
-          interfaces. I'm continuously honing my skills and collaborating with
-          others to create impactful projects.
+          A creative and technically skilled Frontend Developer and UI/UX
+          Designer with a background in Software Engineering from Telkom
+          Surabaya Institute of Technology. I have 3 years of experience using
+          Figma for user-centered designs and ReactJS for building responsive,
+          high-quality web applications. I also possess GitHub proficiency for
+          version control and experience with backend integration (MySQL,
+          MongoDB). Additionally, my skills in 3D modeling using Blender enable
+          me to enhance visual storytelling. Passionate about creating
+          impactful, user-friendly solutions.
         </p>
       </div>
 
