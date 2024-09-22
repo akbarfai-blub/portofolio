@@ -2,6 +2,9 @@ import React from "react";
 import P1 from "../assets/Project1.png";
 import P2 from "../assets/Project2.png";
 import P3 from "../assets/Project3.png";
+import P4 from "../assets/CanOutdoor.png";
+import P5 from "../assets/CUDA.png";
+import P6 from "../assets/Es7.png";
 
 const RecentWork = () => {
   const projects = [
@@ -28,24 +31,24 @@ const RecentWork = () => {
     },
     {
       id: 4,
-      imgSrc: "https://via.placeholder.com/300x200",
-      alt: "Project 4",
-      title: "Project 4",
-      description: "Placeholder project description.",
+      imgSrc: P4,
+      alt: "3D Blender",
+      title: "3D Blender",
+      description: "Energy Drink Product",
     },
     {
       id: 5,
-      imgSrc: "https://via.placeholder.com/300x200",
-      alt: "Project 5",
-      title: "Project 5",
-      description: "Placeholder project description.",
+      imgSrc: P5,
+      alt: "3D Blender",
+      title: "Interior",
+      description: "Showing my convy room environment.",
     },
     {
       id: 6,
-      imgSrc: "https://via.placeholder.com/300x200",
-      alt: "Project 6",
-      title: "Project 6",
-      description: "Placeholder project description.",
+      imgSrc: P6,
+      alt: "Can Product",
+      title: "Another Energy Drink",
+      description: "Do you guys need some energy?",
     },
   ];
 
