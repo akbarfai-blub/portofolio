@@ -13,7 +13,7 @@ const Hero = () => {
 
         {/* Deskripsi singkat */}
         <p className="text-md sm:text-lg md:text-xl text-gray-600 mb-6 leading-relaxed max-w-2xl mx-auto">
-          Specializing in UI/UX Design and Frontend Development with over 1
+          Specializing in UI/UX Design and Frontend Development with about 1
           years of experience in building responsive and user-centric web
           applications.
         </p>
