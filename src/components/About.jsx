@@ -14,7 +14,7 @@ const About = () => {
         <p className="text-lg max-w-2xl mx-auto">
           A creative and technically skilled Frontend Developer and UI/UX
           Designer with a background in Software Engineering from Telkom
-          Surabaya Institute of Technology. I have 2 years of experience using
+          Surabaya Institute of Technology. I have 1 years of experience using
           Figma for user-centered designs and ReactJS for building responsive,
           high-quality web applications. I also possess GitHub proficiency for
           version control and experience with backend integration (MySQL,
